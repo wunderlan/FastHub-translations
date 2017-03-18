@@ -19,31 +19,31 @@
     <string name="share">Share</string>
     <string name="reload">Reload</string>
     <string name="feeds">Feeds</string>
-    <string name="gists">Gists</string>
+    <string name="gists" translatable="false">Gists</string>
     <string name="profile">Profile</string>
     <string name="error">Error</string>
     <string name="press_again_to_exit">Press once again to exit</string>
-    <string name="readme">Readme</string>
+    <string name="readme" translatable="false">Readme</string>
     <string name="opened">Opened</string>
     <string name="closed">Closed</string>
     <string name="repo_chooser">Choose Repo</string>
-    <string name="commits">Commits</string>
+    <string name="commits" translatable="false">Commits</string>
     <string name="followers">Followers</string>
     <string name="following">Following</string>
     <string name="overview">Overview</string>
-    <string name="repos">Repositories</string>
-    <string name="forked">Forked</string>
-    <string name="starred">Starred</string>
+    <string name="repos" translatable="false">Repositories</string>
+    <string name="forked" translatable="false">Forked</string>
+    <string name="starred" translatable="false">Starred</string>
     <string name="follow">Follow</string>
     <string name="unfollow">Unfollow</string>
     <string name="user">User</string>
     <string name="icon_transition" translatable="false">profile_image_transition</string>
     <string name="title_transition" translatable="false">profile_title_transition</string>
-    <string name="code">Code</string>
-    <string name="issues">Issues</string>
-    <string name="pull_requests">Pull Requests</string>
+    <string name="code" translatable="false">Code</string>
+    <string name="issues" translatable="false">Issues</string>
+    <string name="pull_requests" translatable="false">Pull Requests</string>
     <string name="details">Details</string>
-    <string name="repo">Repository</string>
+    <string name="repo" translatable="false">Repository</string>
     <string name="archive_file_detected_error">Archive file detected, please download the file to view its content.</string>
     <string name="minimum_three_chars">Minimum characters (3)</string>
     <string name="no_file_found">No file found</string>
@@ -56,13 +56,13 @@
     <string name="on">On</string><!-- TODO use string format args instead of concatenating string resources -->
     <string name="releases">Releases</string>
     <string name="no_body">No body</string>
-    <string name="download_as_zip">Source code (zip)</string>
-    <string name="download_as_tar">Source code (tar.gz)</string>
+    <string name="download_as_zip" translatable="false">Source code (zip)</string>
+    <string name="download_as_tar" translatable="false">Source code (tar.gz)</string>
     <string name="contributors">Contributors</string>
-    <string name="merged">Merged</string>
+    <string name="merged" translatable="false">Merged</string>
     <string name="by">By</string><!-- TODO use string format args instead of concatenating string resources -->
-    <string name="star">Star</string>
-    <string name="fork">Fork</string>
+    <string name="star" translatable="false">Star</string>
+    <string name="fork" translatable="false">Fork</string>
     <string name="close_issue">Close Issue</string>
     <string name="re_open_issue">Re-Open Issue</string>
     <string name="re_open">Re-Open</string>
@@ -102,10 +102,10 @@
     <string name="delete">Delete</string>
     <string name="comments">Comments</string>
     <string name="comment">Comment</string>
-    <string name="issue">Issue</string>
-    <string name="merge">Merge</string>
-    <string name="pull_request">Pull Request</string>
-    <string name="commit">Commit</string>
+    <string name="issue" translatable="false">Issue</string>
+    <string name="merge" translatable="false">Merge</string>
+    <string name="pull_request" translatable="false">Pull Request</string>
+    <string name="commit" translatable="false">Commit</string>
     <string name="success_merge">Successfully merged</string>
     <string name="file">File</string>
     <string name="file_menu">File menu</string>
@@ -118,7 +118,7 @@
     <string name="big_file">Large file</string>
     <string name="big_file_description">The file is too big to open it.\nClick "OK" to Download it instead.</string>
     <string name="viewer">Viewer</string>
-    <string name="markdown">Markdown</string>
+    <string name="markdown" translatable="false">Markdown</string>
     <string name="submit">Submit</string>
     <string name="type_here">Type here</string>
     <string name="write">Write</string>
@@ -134,7 +134,7 @@
     <string name="required_field">Required field</string>
     <string name="successfully_submitted">Successfully submitted</string>
     <string name="create_gist">Create Gist</string>
-    <string name="gist">Gist</string>
+    <string name="gist" translatable="false">Gist</string>
     <string name="clear">Clear</string>
     <string name="users">Users</string>
     <string name="title">Title</string>
@@ -173,7 +173,7 @@
     <string name="star_hint">Star/unstar repo</string>
     <string name="watch">Watch</string>
     <string name="watch_hint">Watch/unwatch repo</string>
-    <string name="fork_repo_hint">Fork repo</string>
+    <string name="fork_repo_hint" translatable="false">Fork repo</string>
     <string name="no_url">No URL found</string>
     <string name="last_updated">Last updated</string>
     <string name="preview">Preview</string>
@@ -199,23 +199,23 @@
     <string name="committed">Committed</string>
     <string name="downloaded">Downloaded</string>
     <string name="followed">Followed</string>
-    <string name="created_gist">Gist</string>
-    <string name="gollum">Wiki</string>
+    <string name="created_gist"  translatable="false">@string/gist</string>
+    <string name="gollum" translatable="false">Wiki</string>
     <string name="commented_on_issue">Comment on Issue</string>
-    <string name="created_issue">Issue</string>
+    <string name="created_issue" translatable="false">Issue</string>
     <string name="member">Member</string>
-    <string name="public_event">Open-sourced</string>
+    <string name="public_event" translatable="false">Open-sourced</string>
     <string name="pr_comment_review">Pull Request comment</string>
     <string name="pushed">Pushed to</string>
     <string name="team_event">Team</string>
     <string name="deleted">Deleted</string>
     <string name="unknown">Unknown</string>
     <string name="commented_on_commit">Comment on commit</string>
-    <string name="organization_event">Organization</string>
-    <string name="card_event">Card</string>
-    <string name="project_event">Project</string>
-    <string name="pr_review_event">Pull Request</string>
-    <string name="repo_event">Repository</string>
+    <string name="organization_event" translatable="false">Organization</string>
+    <string name="card_event" translatable="false">Card</string>
+    <string name="project_event" translatable="false">Project</string>
+    <string name="pr_review_event" translatable="false">Pull Request</string>
+    <string name="repo_event" translatable="false">Repository</string>
     <string name="switch_branch">Switch branch</string>
     <string name="assignees">Assignees</string>
     <string name="edit">Edit</string>
