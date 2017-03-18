@@ -199,7 +199,7 @@
     <string name="committed">Committed</string>
     <string name="downloaded">Downloaded</string>
     <string name="followed">Followed</string>
-    <string name="created_gist"  translatable="false">@string/gist</string>
+    <string name="created_gist" translatable="false">@string/gist</string>
     <string name="gollum" translatable="false">Wiki</string>
     <string name="commented_on_issue">Comment on Issue</string>
     <string name="created_issue" translatable="false">Issue</string>
@@ -262,4 +262,7 @@
     <string name="copy">Copy</string>
     <string name="success_copied">Copied</string>
     <string name="commit_message">Commit message</string>
+    <string name="network_error">Error occurred while communicating to the server, please check your network</string>
+    <string name="unexpected_error">Unexpected error while requesting API</string>
+    <string name="request_error">Error requesting server, please try again later</string>
 </resources>
