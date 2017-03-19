@@ -265,4 +265,11 @@
     <string name="network_error">Error occurred while communicating to the server, please check your network</string>
     <string name="unexpected_error">Unexpected error while requesting API</string>
     <string name="request_error">Error requesting server, please try again later</string>
+    <string name="marking_as_read">Marking notification as read</string>
+    <string name="forking_gist">Forking gist</string>
+    <string name="forking" formatted="true">Forking %s</string>
+    <string name="staring" formatted="true">Staring %s</string>
+    <string name="un_staring" formatted="true">Un-Staring %s</string>
+    <string name="un_watching" formatted="true">Un-Watching %s</string>
+    <string name="watching" formatted="true">Watching %s</string>
 </resources>
