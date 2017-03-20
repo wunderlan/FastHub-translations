@@ -274,4 +274,6 @@
     <string name="watching" formatted="true">Watching %s</string>
     <string name="login_using_your_default_browser">Login using your default Internet Browser</string>
     <string name="or_character">OR</string>
+    <string name="mark_notification_title">Disable Notification Read Status</string>
+    <string name="mark_notification_summary">Disable marking as read upon clicking a notification.</string>
 </resources>
